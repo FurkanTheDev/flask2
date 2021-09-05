@@ -1,0 +1,40 @@
+{
+  "files": {
+    "static/js/0.349087c2.chunk.js": "/flask2/static/js/0.349087c2.chunk.js",
+    "static/js/0.349087c2.chunk.js.map": "/flask2/static/js/0.349087c2.chunk.js.map",
+    "main.css": "/flask2/static/css/main.860c304b.chunk.css",
+    "main.js": "/flask2/static/js/main.fe8a5a48.chunk.js",
+    "main.js.map": "/flask2/static/js/main.fe8a5a48.chunk.js.map",
+    "runtime-main.js": "/flask2/static/js/runtime-main.6bfcfa39.js",
+    "runtime-main.js.map": "/flask2/static/js/runtime-main.6bfcfa39.js.map",
+    "static/js/3.61865f3c.chunk.js": "/flask2/static/js/3.61865f3c.chunk.js",
+    "static/js/3.61865f3c.chunk.js.map": "/flask2/static/js/3.61865f3c.chunk.js.map",
+    "static/js/4.7170f64f.chunk.js": "/flask2/static/js/4.7170f64f.chunk.js",
+    "static/js/4.7170f64f.chunk.js.map": "/flask2/static/js/4.7170f64f.chunk.js.map",
+    "static/js/5.1b4e7c0e.chunk.js": "/flask2/static/js/5.1b4e7c0e.chunk.js",
+    "static/js/5.1b4e7c0e.chunk.js.map": "/flask2/static/js/5.1b4e7c0e.chunk.js.map",
+    "static/js/6.be506ca9.chunk.js": "/flask2/static/js/6.be506ca9.chunk.js",
+    "static/js/6.be506ca9.chunk.js.map": "/flask2/static/js/6.be506ca9.chunk.js.map",
+    "static/js/7.8ea193f3.chunk.js": "/flask2/static/js/7.8ea193f3.chunk.js",
+    "static/js/7.8ea193f3.chunk.js.map": "/flask2/static/js/7.8ea193f3.chunk.js.map",
+    "static/js/8.da2e6a65.chunk.js": "/flask2/static/js/8.da2e6a65.chunk.js",
+    "static/js/8.da2e6a65.chunk.js.map": "/flask2/static/js/8.da2e6a65.chunk.js.map",
+    "static/js/9.9f8a5d8f.chunk.js": "/flask2/static/js/9.9f8a5d8f.chunk.js",
+    "static/js/9.9f8a5d8f.chunk.js.map": "/flask2/static/js/9.9f8a5d8f.chunk.js.map",
+    "static/js/10.218e69df.chunk.js": "/flask2/static/js/10.218e69df.chunk.js",
+    "static/js/10.218e69df.chunk.js.map": "/flask2/static/js/10.218e69df.chunk.js.map",
+    "static/js/11.4488190c.chunk.js": "/flask2/static/js/11.4488190c.chunk.js",
+    "static/js/11.4488190c.chunk.js.map": "/flask2/static/js/11.4488190c.chunk.js.map",
+    "static/js/12.dda56ced.chunk.js": "/flask2/static/js/12.dda56ced.chunk.js",
+    "static/js/12.dda56ced.chunk.js.map": "/flask2/static/js/12.dda56ced.chunk.js.map",
+    "index.html": "/flask2/index.html",
+    "static/css/main.860c304b.chunk.css.map": "/flask2/static/css/main.860c304b.chunk.css.map",
+    "static/js/3.61865f3c.chunk.js.LICENSE.txt": "/flask2/static/js/3.61865f3c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6bfcfa39.js",
+    "static/js/3.61865f3c.chunk.js",
+    "static/css/main.860c304b.chunk.css",
+    "static/js/main.fe8a5a48.chunk.js"
+  ]
+}
